@@ -1,7 +1,6 @@
-
 name: Build FrameLab Camera APK
 
-on:
+'on':
   workflow_dispatch:
 
 permissions:
